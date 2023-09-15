@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABN" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="MBN" tvg-logo="" group-title="General",MBN
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5NDg3MzkyOH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=O4VuwIvU7bEJTniUy88vpqQaWU6gPXK9y6LTXwwb6owKi8ds7ytQmZ5Cz97X7pQBJVbzqwbyu1A3vijolkEvtczJqwAZdJ2ehx4NcwtEybfPwuvaX3fwkLycL6-ir95VtxQhgoAzBSNYaOcE5Mu6PSIyI~ZqnZO61jjfk35tKeg_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+#EXTINF:-1 tvg-id="MBN" tvg-logo="" group-title="General",KBS2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1694961672&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTQ5NjE2NzJ9fX1dfQ__&Signature=L6-7zfJgdERBUJpsKe7Wnxf8MkdVHMsf31mhxEbboqwkNscPzRGVUkv8qGajY9TbIC0m1Pi7Zebn0QSp6IFGHFQa5gqQygt5gG1BqTZjsvEgsz9hJtszJUdXcfGsIbEU4-2SWjb1dxGW5M~6UCe2g7y-stm99v0SvWquD9gJSkFcNA94U2yk5a-ZRewp5yWC5FK7WiouzAykPxDZVRuBXKyzRzAiy6qDuKiW~Kj9tuNrvVw90NuIIo3~QQO5mzhOCv9MxQvgeuKELmmGYpZcJZmOq2-sS5cODT-NxyYh9O6E3RCORWkgK0evJWsnD~g0-zyHmA9o-HO3njvcAcJYYw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+
